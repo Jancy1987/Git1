@@ -20,6 +20,11 @@ public class Array {
 					}
 			System.out.println(sum);
 	}
+	private void method() {
+		// TODO Auto-generated method stub
+		System.out.println("Add to Golden");
+
+	}
 
 }
 
